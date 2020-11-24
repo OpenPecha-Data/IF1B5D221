@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG5774
   title: ཧོར་གྱི་ཆོས་འབྱུང་
-  volume: ''
+  volume:
+    2bdc4a4e1c374ecd8350ad61cedb3dca:
+      image_group_id: I1KG5782
+      title: Volume 1 of hor gyi chos 'byung
+      volume_number: 1
+      total_pages: 248
   author: ''
+ebook_metadata:
+  title: ཧོར་གྱི་ཆོས་འབྱུང་
+  author: ''
+  sku: P000536
+  cover: cover.jpg
+  layers:
+  - pagination
