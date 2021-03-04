@@ -1,15 +1,16 @@
-id: opecha:P000536
+id: P000536
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG5774
   title: ཧོར་གྱི་ཆོས་འབྱུང་
-  volume:
+  author: ''
+  volumes:
     2bdc4a4e1c374ecd8350ad61cedb3dca:
       image_group_id: I1KG5782
       title: Volume 1 of hor gyi chos 'byung
       volume_number: 1
       total_pages: 248
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཧོར་གྱི་ཆོས་འབྱུང་
   author: ''
